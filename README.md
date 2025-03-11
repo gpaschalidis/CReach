@@ -19,7 +19,7 @@ Clone the repository using:
 
 ```bash
 git clone git@github.com:gpaschalidis/CReach.git
-cd creach
+cd CReach
 ```
 Run the following commands:
 ```bash
