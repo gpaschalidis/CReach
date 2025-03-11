@@ -18,7 +18,7 @@ either the right or the left hand.
 Clone the repository using:
 
 ```bash
-git clone git@github.com:gpaschalidis/creach.git
+git clone git@github.com:gpaschalidis/CReach.git
 cd creach
 ```
 Run the following commands:
