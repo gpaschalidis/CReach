@@ -115,7 +115,7 @@ Put both of them in the folder "reaching_data" so you have the following structu
             ├── dset_info.npz
             └── receptacles.npz
 ```
- - You can download our pre-trained model from [here](https://docs.google.com/forms/d/1TBkvFmiLwf_TAnZOlBEmEXck1Tv-MNUcftlOKxKow1Q/edit) and place it in the folder "pretrained". 
+ - You can download our pre-trained model from [here](https://docs.google.com/forms/d/e/1FAIpQLSf7hS6qagxL74XQsvq4hlgRhDl8pk8YopRoxZdX0QgrD7oTCw/viewform?usp=dialog) and place it in the folder "pretrained". 
    The folder "pretrained" should have the following structure:
 
 ```bash
